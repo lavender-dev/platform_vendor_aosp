@@ -84,6 +84,7 @@ PRODUCT_PACKAGES += \
     LatinIME \
     LiveWallpapers \
     LiveWallpapersPicker \
+    Longshot \
     Stk \
     ViaBrowser \
     AEXPapers \
