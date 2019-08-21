@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     ViaBrowser \
     AEXPapers \
     RetroMusicPlayer \
+    Recorder \
     WallpaperPickerGoogle \
     MarkupGoogle \
     Recorder \
