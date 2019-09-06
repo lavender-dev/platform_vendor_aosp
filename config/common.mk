@@ -48,10 +48,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     privapp-permissions-wellbeing.xml
 
-# Enforce privapp-permissions whitelist
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.control_privapp_permissions=enforce
-
 DEVICE_PACKAGE_OVERLAYS += \
     vendor/aosp/overlay/common \
     vendor/aosp/overlay/dictionaries
